@@ -1,0 +1,14 @@
+D:\BELVA\Dokumen Test Enigma\NawaData\bin\Debug\net8.0\NawaData.exe
+D:\BELVA\Dokumen Test Enigma\NawaData\bin\Debug\net8.0\NawaData.deps.json
+D:\BELVA\Dokumen Test Enigma\NawaData\bin\Debug\net8.0\NawaData.runtimeconfig.json
+D:\BELVA\Dokumen Test Enigma\NawaData\bin\Debug\net8.0\NawaData.dll
+D:\BELVA\Dokumen Test Enigma\NawaData\bin\Debug\net8.0\NawaData.pdb
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\NawaData.GeneratedMSBuildEditorConfig.editorconfig
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\NawaData.AssemblyInfoInputs.cache
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\NawaData.AssemblyInfo.cs
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\NawaData.csproj.CoreCompileInputs.cache
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\NawaData.dll
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\refint\NawaData.dll
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\NawaData.pdb
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\NawaData.genruntimeconfig.cache
+D:\BELVA\Dokumen Test Enigma\NawaData\obj\Debug\net8.0\ref\NawaData.dll
